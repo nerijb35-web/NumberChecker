@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int number;
-
+     // check if a number is even or odd
     printf("Enter any Number: ");
   }  if (scanf("%d", &number) != 1) {
         printf("Invalid input. Please enter an integer.\n");
